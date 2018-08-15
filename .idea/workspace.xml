@@ -87,7 +87,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_main">
+  <component name="RunManager" selected="Python.all_test">
+    <configuration name="all_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pycharm_test11/primary_test_unittest/test_all_discover" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_test11" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pycharm_test11/primary_test_unittest/test_all_discover/all_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="readConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,16 +160,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.run_main" />
       <item index="1" class="java.lang.String" itemvalue="Python.send_smtp_base(带附件)" />
       <item index="2" class="java.lang.String" itemvalue="Python.readConfig" />
+      <item index="3" class="java.lang.String" itemvalue="Python.all_test" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.run_main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.send_smtp_base(带附件)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.readConfig" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.all_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.run_main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.send_smtp_base(带附件)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.readConfig" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +345,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Pycharm_test11/primary_test_unittest/test_web_base/on_time_execute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://D:/Pycharm_test11/primary_test_unittest/test_all_discover/all_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Pycharm_test11/primary_test_unittest/test_web_base/all_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -335,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/cfg.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="81">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>
